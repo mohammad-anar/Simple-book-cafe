@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/Rhm9H30/cover-1.webp",
+      "title": "The Mystery of the Missing Key",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/kxXST02/businessman-6997519.png",
+      "posted_date": "2023-09-11",
+      "reading_time": 180,
+      "hashtags": ["mystery", "adventure", "puzzle"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/R9Kb1w4/cover-3.jpg",
+      "title": "A Journey Through Time",
+      "author": "David Smith",
+      "author_img": "https://i.ibb.co/2nd3Fb9/man-4140048.png",
+      "posted_date": "2023-09-10",
+      "reading_time": 270,
+      "hashtags": ["history", "time travel"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/YLMV3D0/cover-4.jpg",
+      "title": "The Art of Creativity",
+      "author": "Emily Davis",
+      "author_img": "https://i.ibb.co/C2KJv57/profile-6.png",
+      "posted_date": "2023-09-09",
+      "reading_time": 150,
+      "hashtags": ["creativity", "art", "inspiration"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/54jBYnx/cover-5.jpg",
+      "title": "In Search of Lost Treasures",
+      "author": "Michael Anderson",
+      "author_img": "https://i.ibb.co/hXC7mV2/woman-4140047.png",
+      "posted_date": "2023-09-08",
+      "reading_time": 300,
+      "hashtags": ["treasure hunt", "adventure"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/dpgYNsw/cover-6.jpg",
+      "title": "Cooking Masterclass",
+      "author": "Sophia Miller",
+      "author_img": "https://i.ibb.co/KsKdHgH/profile-4.png",
+      "posted_date": "2023-09-07",
+      "reading_time": 90,
+      "hashtags": ["cooking", "recipes", "culinary"]
+    }
+  ]
+  
