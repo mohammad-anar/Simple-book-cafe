@@ -8,7 +8,7 @@ const Book = ({ book, handleBookmark, handleMarkAsRead }) => {
         <div className= 'book bg-orange-200  mb-4 rounded-lg'>
             <div className='md:flex gap-5 mb-4'>
                 {/* banner image */}
-                <div className='bg-gray-400 p-4 xs:rounded-t-lg lg:rounded-l-lg' >
+                <div className='bg-gray-400 p-4 rounded-t-lg md:rounded-l-lg md:rounded-tr-none' >
                     <img className='min-w-[200px] mx-auto h-[240px] shadow-2xl rounded-lg' src={cover} alt="Book-cover img" />
                 </div>
                 <div className='px-4 md:px-0'>
